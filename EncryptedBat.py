@@ -1,4 +1,3 @@
-from this import s
 from tkinter import *
 import tkinter as tk
 from tkinter import filedialog as fd
