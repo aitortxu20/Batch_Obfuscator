@@ -28,7 +28,7 @@ def select_file(window):
     bat_encriptation(file,window)
    
 
-window = tk.Tk() #Creation of the tkinter window
+window = tk.Tk() #Creating the tkinter window.
 
 window.title('Bat Encryptor')
 window.geometry('700x500')              #Config of the window
